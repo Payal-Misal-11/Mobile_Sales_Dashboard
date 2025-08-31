@@ -18,11 +18,6 @@ This repository contains an **interactive Power BI dashboard** that analyzes mob
 - `Mobile_Sales_Dashboard.pbix` → Power BI dashboard file  
 - `Mobile_Sales.xlsx` → Dataset
 
-## 🚀 How to Use
-1. Download the `.pbix` file.  
-2. Open it using **Microsoft Power BI Desktop**.  
-3. Explore and interact with the visuals.  
-
 ## 🛠 Tools & Technologies
 - **Microsoft Power BI Desktop**  
 - **DAX (Data Analysis Expressions)**  
